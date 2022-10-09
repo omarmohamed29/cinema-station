@@ -1,8 +1,10 @@
-# cinemastation
+# cinema Station - cinema resevation.
 
-A new Flutter project.
+Flutter based mobile application for cinema seats reservation with an fully functioning
+Admin application to manage the application – with cinema station you will be able to fnd, explore
+and book your seats from home. 
 
-## Getting Started
+![GitHub Logo](assets/images/appicon/cinema_launcher.png)
 
 This project is a starting point for a Flutter application.
 
