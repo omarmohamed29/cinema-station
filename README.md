@@ -29,7 +29,7 @@ and book your seats from home.
 - admin system for adding movies
 
 <div id="screenshots" align="center">
-  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-04-15_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="350" height="500" />
-  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-07-92_033308aa2095ad29ceb639d5e5ec16cd.jpg"  width="350" height="500" />
+  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-04-15_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="500" height="1000" />
+  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-07-92_033308aa2095ad29ceb639d5e5ec16cd.jpg"  width="500" height="1000" />
 </div>
 
