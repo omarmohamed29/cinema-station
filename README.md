@@ -7,7 +7,7 @@ and book your seats from home.
 ![GitHub Logo](assets/images/appicon/cinema_launcher.png)
 
 
-#Used technologies:
+ :telescope: Used technologies:
 
 - BLOC "CUBIT" for state management.
 - HTTP package.
@@ -19,7 +19,7 @@ and book your seats from home.
 - image picker
 - barcode generator
 
-#Features:
+:zap:Features:
 - full authentication system
 - good UI for user experience 
 - profile management 
@@ -37,9 +37,11 @@ and book your seats from home.
   <img src="githubScreenshots/Screenshot_2022-10-09-23-17-11-67_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="400" height="800" />
   <img src="githubScreenshots/Screenshot_2022-10-09-23-17-18-21_033308aa2095ad29ceb639d5e5ec16cd.jpg"  width="400" height="800" />
 </div>
-### :woman_technologist: Dark Mode :
+:man_technologist: Dark Mode :
 <div id="screenshots" align="center">
   <img src="githubScreenshots/Screenshot_2022-10-09-23-17-25-92_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="400" height="800" />
   <img src="githubScreenshots/Screenshot_2022-10-09-23-17-27-93_033308aa2095ad29ceb639d5e5ec16cd.jpg"  width="400" height="800" />
 </div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 
