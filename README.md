@@ -28,9 +28,8 @@ and book your seats from home.
 - add movies to favourite
 - admin system for adding movies
 
-<div id="badges">
-  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-04-15_033308aa2095ad29ceb639d5e5ec16cd.jpg" alt="LinkedIn Badge"/>
-  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-07-92_033308aa2095ad29ceb639d5e5ec16cd.jpg" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<div id="screenshots" align="center">
+  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-04-15_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="48" height="70" />
+  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-07-92_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="48" height="70" />
 </div>
 
