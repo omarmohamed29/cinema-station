@@ -37,4 +37,9 @@ and book your seats from home.
   <img src="githubScreenshots/Screenshot_2022-10-09-23-17-11-67_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="400" height="800" />
   <img src="githubScreenshots/Screenshot_2022-10-09-23-17-18-21_033308aa2095ad29ceb639d5e5ec16cd.jpg"  width="400" height="800" />
 </div>
+### :woman_technologist: Dark Mode :
+<div id="screenshots" align="center">
+  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-25-92_033308aa2095ad29ceb639d5e5ec16cd.jpg" width="400" height="800" />
+  <img src="githubScreenshots/Screenshot_2022-10-09-23-17-27-93_033308aa2095ad29ceb639d5e5ec16cd.jpg"  width="400" height="800" />
+</div>
 
