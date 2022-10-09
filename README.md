@@ -6,12 +6,17 @@ and book your seats from home.
 
 ![GitHub Logo](assets/images/appicon/cinema_launcher.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#Used technologies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- BLOC "CUBIT" for state management.
+- HTTP package.
+- Firebase "realtime database - firebase authentication - firestore".
+- Shared preferences.
+- Hydrated bloc.
+- Intl "for parsing time and date".
+- pathfinder
+- image picker
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
