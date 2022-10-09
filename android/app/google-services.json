@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "101986709942",
+    "firebase_url": "https://cinema-station-default-rtdb.firebaseio.com",
+    "project_id": "cinema-station",
+    "storage_bucket": "cinema-station.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101986709942:android:264626aad562521546d117",
+        "android_client_info": {
+          "package_name": "com.ElGendyOm.cinemastation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101986709942-dcbvfpd6joosjkoafljt878bsvh88qqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZFwXxkSRN9tcsiEqNohcS3AvZNpYM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101986709942-dcbvfpd6joosjkoafljt878bsvh88qqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101986709942:android:fd4034d0bc81008546d117",
+        "android_client_info": {
+          "package_name": "com.example.cinemastationcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101986709942-dcbvfpd6joosjkoafljt878bsvh88qqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZFwXxkSRN9tcsiEqNohcS3AvZNpYM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101986709942-dcbvfpd6joosjkoafljt878bsvh88qqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101986709942:android:f28cf8f59f97390e46d117",
+        "android_client_info": {
+          "package_name": "com.ElGendyOm.cinemastation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101986709942-fge6df5pseqbl1c146h3as6gf75sp4hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ElGendyOm.cinemastation",
+            "certificate_hash": "81becee370e675272bbf6296230a275d2ee6922c"
+          }
+        },
+        {
+          "client_id": "101986709942-dcbvfpd6joosjkoafljt878bsvh88qqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZFwXxkSRN9tcsiEqNohcS3AvZNpYM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101986709942-dcbvfpd6joosjkoafljt878bsvh88qqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
