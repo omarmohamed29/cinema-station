@@ -28,4 +28,4 @@ and book your seats from home.
 - add movies to favourite
 - admin system for adding movies
 
-(cinema-station/githubScreenshots/Screenshot_2022-10-09-23-17-04-15_033308aa2095ad29ceb639d5e5ec16cd.jpg)
+![GitHub Logo](cinema-station/githubScreenshots/Screenshot_2022-10-09-23-17-04-15_033308aa2095ad29ceb639d5e5ec16cd.jpg)
